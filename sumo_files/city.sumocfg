@@ -1,0 +1,17 @@
+<configuration>
+
+<input>
+    <net-file value="city.net.xml"/>
+    <route-files value="city.rou.xml"/>
+</input>
+
+<time>
+    <begin value="0"/>
+    <end value="300"/>
+</time>
+
+<output>
+    <fcd-output value="../trace_files/fcd.xml"/>
+</output>
+
+</configuration>
