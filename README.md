@@ -28,7 +28,7 @@ This project presents a simulation of a Vehicular Ad Hoc Network (VANET) by inte
      `sudo apt install netanim`<br>
      `NetAnim`
 3.  Now create the Folder Structure
-4.  Go to OpenStreetmap to download the map
+4.  Go to OpenStreetmap to download the map and store it in the osm_map directory and name the file as map.osm
 5.  `netconvert --osm-files osm_map/map.osm -o sumo_files/city.net.xml`<br>
 6.  `python3 /usr/share/sumo/tools/randomTrips.py \
 -n sumo_files/city.net.xml \
