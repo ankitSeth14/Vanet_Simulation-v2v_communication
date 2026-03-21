@@ -53,6 +53,10 @@ This project presents a simulation of a Vehicular Ad Hoc Network (VANET) by inte
 15. `./NetAnim`<br>
 <hr>
 
+## Note
+To plot the values or to study the results trend using graph you can use the MATLAB codes present in the Results directory.<br>
+<hr>
+
 ## To Vary the Parameters Value
   ### 1. To Change Bandwidth Value 
         Chane the value in the command line while running ns3 code.
