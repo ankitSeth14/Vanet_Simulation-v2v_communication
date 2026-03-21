@@ -54,7 +54,7 @@ This project presents a simulation of a Vehicular Ad Hoc Network (VANET) by inte
 <hr>
 
 ## Note
-To plot the values or to study the results trend using graph you can use the MATLAB codes present in the Results directory.<br>
+To plot the values or to study the results trend using graph you can use the MATLAB codes present in the results_graph directory.<br>
 <hr>
 
 ## To Vary the Parameters Value
